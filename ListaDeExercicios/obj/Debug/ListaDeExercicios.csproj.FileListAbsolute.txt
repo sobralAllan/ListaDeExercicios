@@ -1,0 +1,7 @@
+C:\Users\allan.ssilva4\source\repos\ListaDeExercicios\ListaDeExercicios\bin\Debug\ListaDeExercicios.exe.config
+C:\Users\allan.ssilva4\source\repos\ListaDeExercicios\ListaDeExercicios\bin\Debug\ListaDeExercicios.exe
+C:\Users\allan.ssilva4\source\repos\ListaDeExercicios\ListaDeExercicios\bin\Debug\ListaDeExercicios.pdb
+C:\Users\allan.ssilva4\source\repos\ListaDeExercicios\ListaDeExercicios\obj\Debug\ListaDeExercicios.csproj.AssemblyReference.cache
+C:\Users\allan.ssilva4\source\repos\ListaDeExercicios\ListaDeExercicios\obj\Debug\ListaDeExercicios.csproj.CoreCompileInputs.cache
+C:\Users\allan.ssilva4\source\repos\ListaDeExercicios\ListaDeExercicios\obj\Debug\ListaDeExercicios.exe
+C:\Users\allan.ssilva4\source\repos\ListaDeExercicios\ListaDeExercicios\obj\Debug\ListaDeExercicios.pdb
